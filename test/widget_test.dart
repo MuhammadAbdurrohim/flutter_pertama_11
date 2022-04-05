@@ -81,7 +81,7 @@ nilai = 80;
 
 if (nilai >= 80) {
   print("A");
-} else if (nilai <= 80 && nilai >= 50) {
+} else if (nilai <= 80 && nilai >= 40) {
   print("B");
 } else {
   print("Tidak Lulus");
