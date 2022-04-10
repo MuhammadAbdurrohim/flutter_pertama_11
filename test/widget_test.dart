@@ -89,4 +89,15 @@ if (nilai >= 80) {
 
 print("===========");
 nilai >= 80 ? print("A") : print("Tidak A");
+
+//final keyword => imutable / tidak bisa dirubah
+ //const final
+ //const
+ //const String mahasiswa = "Rohim";
+ //final
+ final String mahasiswafk;
+  
+ mahasiswa = "Rohim";
+  
+ print(mahasiswa);
 }
